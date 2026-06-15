@@ -1,0 +1,50 @@
+date,category,amount,description
+2025-05-03,Groceries,42.75,Walmart Grocery pickup - produce and dairy
+2025-05-05,Transportation,3.25,Subway fare - downtown
+2025-05-07,Utilities,78.12,Electric bill May
+2025-05-09,Entertainment,12.00,Netflix monthly
+2025-05-10,Dining,18.50,Lunch - Cafe Roma
+2025-05-11,Healthcare,22.00,Pharmacy - vitamins
+2025-05-01,Rent,1200.00,Monthly rent
+2025-05-12,Misc,9.99,Mobile app subscription
+2025-05-14,Groceries,55.20,Trader Joe's - groceries
+2025-05-16,Transportation,25.00,Gas station fill-up
+2025-05-18,Utilities,60.45,Water bill May
+2025-05-19,Entertainment,35.00,Concert ticket
+2025-05-20,Dining,27.40,Dinner - The Italian Place
+2025-05-21,Healthcare,45.00,Doctor copay
+2025-05-22,Misc,15.00,Office supplies - Amazon
+2025-06-02,Groceries,38.90,Grocery run - cheese and bread
+2025-06-04,Transportation,4.00,Bus fare
+2025-06-06,Utilities,82.30,Electric bill June
+2025-06-08,Entertainment,14.99,Streaming service
+2025-06-09,Dining,22.10,Lunch - deli
+2025-06-10,Healthcare,10.00,Over-the-counter meds
+2025-06-01,Rent,1200.00,Monthly rent
+2025-06-12,Misc,7.50,Coffee with friend
+2025-06-14,Groceries,65.00,Whole Foods - weekly
+2025-06-15,Transportation,28.50,Gas station
+2025-06-17,Utilities,65.00,Internet bill
+2025-06-18,Entertainment,50.00,Escape room
+2025-06-19,Dining,30.00,Date night dinner
+2025-06-20,Healthcare,30.00,Dentist co-pay
+2025-06-21,Misc,49.99,New headphones
+2025-07-03,Groceries,47.00,Grocery delivery
+2025-07-04,Transportation,3.00,Subway
+2025-07-05,Utilities,77.50,Electric bill July
+2025-07-06,Entertainment,9.99,Game pass
+2025-07-07,Dining,15.75,Brunch
+2025-07-08,Healthcare,8.99,First aid supplies
+2025-07-01,Rent,1200.00,Monthly rent
+2025-07-09,Misc,20.00,Gift
+2025-07-10,Groceries,52.30,Farmer's market
+2025-07-12,Transportation,60.00,Rideshare to airport
+2025-07-14,Utilities,58.40,Water bill July
+2025-07-15,Entertainment,22.00,Movie outing
+2025-07-16,Dining,26.00,Dinner with colleagues
+2025-07-18,Healthcare,14.50,Eye drops
+2025-07-19,Misc,5.99,Subscription renewal
+2025-08-02,Groceries,49.99,Monthly staples
+2025-08-03,Transportation,3.25,Subway fare
+2025-08-04,Utilities,85.25,Electric bill August
+2025-08-05,Entertainment,16.99,Video streaming
